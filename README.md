@@ -1,36 +1,41 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# AI Questionary Website
 
-## Getting Started
+This is a portfolio website which was developed with Next.js 14 (npx create-next-app).
 
-First, run the development server:
+![image](https://res.cloudinary.com/dtrp5gl4m/image/upload/v1699692417/%D0%A1%D0%BD%D0%B8%D0%BC%D0%BE%D0%BA2_ll8j8u.png)
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
+## Demo
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+You can view it on the live website using this link [https://aiquestionary.vercel.app](https://aiquestionary.vercel.app)
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## Technologies Used
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+Technologies and libraries used to develop this application.
 
-## Learn More
+- next
+- shadcn
+- zod
+- zustand
+- tailwindcss
+- stripe
+- openai
+- axios
+- ai
+- typescript
+- @upstash/redis
 
-To learn more about Next.js, take a look at the following resources:
+## Installation
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+1. Clone the repository: `git clone <https://github.com/adizenless/Ai-questionary.git>`
+2. Create a new branch: `git checkout -b feature-name`
+3. Make your changes and commit them: `git commit -m 'Description of changes'`
+4. Push to the branch: `git push origin feature-name`
+5. Submit a pull request
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+## License
 
-## Deploy on Vercel
+Portfolio is [MIT licensed](https://github.com/adizenless/Ai-questionary/blob/main/LICENSE).
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Contact
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Email: [adizenless@gmail.com](mailto:your.email@example.com)
